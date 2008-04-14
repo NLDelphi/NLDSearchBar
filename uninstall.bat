@@ -1,0 +1,3 @@
+@Echo Off
+Echo Bezig met de-installeren van de NLDelphi ZoekBar...
+regsvr32 -u NLDSearchBar.dll
